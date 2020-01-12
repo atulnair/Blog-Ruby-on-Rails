@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: anidiot
+  api_key: '534184545725355'
+  api_secret: r9ct-Ox8ACSTSUEY8Xky4qlHi8k
+  enhance_image_tag: true
+  static_file_support: false
+production:
+  cloud_name: anidiot
+  api_key: '534184545725355'
+  api_secret: r9ct-Ox8ACSTSUEY8Xky4qlHi8k
+  enhance_image_tag: true
+  static_file_support: true
+test:
+  cloud_name: anidiot
+  api_key: '534184545725355'
+  api_secret: r9ct-Ox8ACSTSUEY8Xky4qlHi8k
+  enhance_image_tag: true
+  static_file_support: false
